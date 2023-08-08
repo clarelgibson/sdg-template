@@ -1,5 +1,8 @@
 # SDG Template
-Template repo for @surreydatagirl data viz/analytics projects.
+Template repo for @surreydatagirl data viz/analytics projects. Template includes directories for data and R scripts. Other standard directories you may need include:
+-  `ref`: for any reference documentation
+-  `img`: for image files
+-  `products`: for any products built with the clean data
 
 ## Description
 Longer description of the project.
