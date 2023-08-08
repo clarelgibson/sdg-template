@@ -12,7 +12,12 @@ Longer description of the project.
 -   List the data sources and links used in the project.
 
 ### Packages
-This project uses `renv` for package management.
+This project uses `renv` for package management. To set up the packages needed for this project run the following code in the console:
+
+```r
+install.packages("renv")
+renv::init()
+```
 
 ## Author
 - [Clare Gibson](https://www.surreydatagirl.com) - [surreydatagirl@gmail.com](mailto:surreydatagirl.com)
